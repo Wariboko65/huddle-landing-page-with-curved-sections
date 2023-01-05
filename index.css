@@ -1,0 +1,18 @@
+:root {
+    --pink: hsl(322, 100%, 66%);
+    --lpink: hsl(321, 100%, 78%);
+    --lred: hsl(0, 100%, 63%);
+    --vdcyan: hsl(192, 100%, 9%);
+    --vpblue: hsl(207, 100%, 98%);
+    --weight: 700;
+    --weight2: 600;
+    --weight3: 400;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif; */
+}
