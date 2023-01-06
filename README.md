@@ -6,13 +6,13 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/h-window-view.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [huddle-landing-page-with-curved-sections](https://your-solution-url.com)
+- Live Site URL: [huddle-landing-page-with-curved-sections](https://your-live-site-url.com)
 
 ## My process
 
@@ -26,6 +26,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [John Godwin Oamien](https://godwins-portfolio.vercel.app)
+- Frontend Mentor - [@Wariboko65](https://www.frontendmentor.io/profile/Wariboko65)
+- Twitter - [@Gdwin656](https://www.twitter.com/Gdwin656)
