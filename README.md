@@ -10,9 +10,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 
 ### Links
-
-- Solution URL: [huddle-landing-page-with-curved-sections](https://your-solution-url.com)
-- Live Site URL: [huddle-landing-page-with-curved-sections](https://your-live-site-url.com)
+- Live Site URL: [huddle-landing-page-with-curved-sections](https://huddle-landing-page-with-curved-sections-puce.vercel.app/)
 
 ## My process
 
